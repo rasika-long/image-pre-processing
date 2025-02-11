@@ -5,3 +5,4 @@ Exp1C:image translation
 Exp1D: image Normalization
 Exp1E : Edge detection image
 Exp1F : image bluring 
+Exp1G : Morphological Image Processing
